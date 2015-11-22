@@ -1,0 +1,22 @@
+{
+  "name": "manager-diskdb",
+  "version": "1.0.0",
+  "description": "simple diskdb manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firifon/manager-diskdb.git"
+  },
+  "author": "firifon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firifon/manager-diskdb/issues"
+  },
+  "homepage": "https://github.com/Firifon/manager-diskdb#readme",
+  "dependencies": {
+    "diskdb": "^0.1.14"
+  }
+}
