@@ -1,2 +1,2 @@
 # manager-diskdb
-simple diskdb manager
+simple electron diskdb manager
